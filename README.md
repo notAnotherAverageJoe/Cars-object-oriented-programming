@@ -1,0 +1,1 @@
+🚗This project implements a simple JavaScript program for managing vehicles in a garage. It defines three classes: Vehicle, Cars, and Motorcycle, along with a Garage class to store and manage instances of vehicles.🏍️
