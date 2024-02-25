@@ -47,3 +47,13 @@ add(newVehicle) {
     return "Vehicle added!";
   }
 }
+
+//const car1 = new Cars('Toyota', 'Camry', 2022);
+//const motorcycle1 = new Motorcycle('Harley', 'Davidson', 2020);
+
+// Create a garage with a capacity of 10
+//const myGarage = new Garage(10);
+
+// Add vehicles to the garage
+//console.log(myGarage.add(car1)); // Vehicle added!
+//console.log(myGarage.add(motorcycle1)); // Vehicle added!
